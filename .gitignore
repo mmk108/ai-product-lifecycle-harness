@@ -1,0 +1,10 @@
+# Reference repositories are local review inputs, not project contents.
+/agent-skills/
+/hve-core/
+/ECC/
+/superpowers/
+/mattpocock-skills/
+
+# Local editor and operating-system files.
+.DS_Store
+.vscode/
